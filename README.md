@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Data Science - Data mining.
 - 🌱 I’m currently learning ... Python, Managerial Accounting
 - 💞️ I’m looking to collaborate on ... Business ventures
-- 📫 How to reach me ... good question!
+- 📫 How to reach me ... DM!
 
 <!---
 manoritesandeep/manoritesandeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

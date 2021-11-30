@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sandeep 
 - 👀 I’m interested in ... Data Science - Data mining.
-- 🌱 I’m currently learning ... Python, Managerial Accounting
+- 🌱 I’m currently learning ... Python, Managerial Accounting, JFrog, ML
 - 💞️ I’m looking to collaborate on ... Business ventures
 - 📫 How to reach me ... DM @ LinkedIn: search for Sandeep Solanki, or follow www.linkedin.com/in/sandeepsolanki
 

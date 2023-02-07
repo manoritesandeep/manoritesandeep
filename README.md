@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sandeep 
 - 👀 I’m interested in ... Data Science, Software Engineering, MLOps.
-- 🌱 I’m currently learning ... Python, Flask, Django ML, Managerial Accounting, always improving skills. 
-- 💞️ I’m looking to collaborate on ... Business ventures
+- 🌱 I’m currently learning ... Python, Flask, ML, Django,Web development,Managerial Accounting, always trying to improve my skills. 
+- 💞️ I’m looking to collaborate on ... Software development, App building, Business ventures
 - 📫 How to reach me ... DM @ LinkedIn: search for Sandeep Solanki, or follow www.linkedin.com/in/sandeepsolanki
 
 <!---

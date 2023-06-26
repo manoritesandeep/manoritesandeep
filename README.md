@@ -4,7 +4,7 @@
 - Building application (Apple based for now) using XCode, SWIFT, Firebase and SWIFTUI. 
 - 💞️ Happy to collaborate on ... Software development, App building, Business ventures 
 - 📫 How to reach me ... DM on LinkedIn: @ www.linkedin.com/in/sandeepsolanki 
- 
+
 <!---
 manoritesandeep/manoritesandeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

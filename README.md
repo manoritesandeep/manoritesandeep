@@ -3,7 +3,7 @@
 - 🌱 I’m always learning and imporving my skills ... Python3, Flask, ML, Django, Web development,Managerial Accounting, always trying to improve my skills.
 - Building application using XCode, SWIFT, Firebase and SWIFTUI. 
 - 💞️ Happy to collaborate on ... Software development, iOS App building, Business ventures 
-- 📫 How to reach me ... DM on LinkedIn: @ www.linkedin.com/in/sandeepsolanki 
+- 📫 How to reach me... DM on LinkedIn: @ www.linkedin.com/in/sandeepsolanki 
 
 <!---
 manoritesandeep/manoritesandeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,7 +4,7 @@
 - Building application using XCode, SWIFT, Google Firebase and SWIFTUI.
 - 💞️ Happy to collaborate on... Software development, iOS App building, Business ventures
 - 📫 How to reach me... DM on LinkedIn: @ www.linkedin.com/in/sandeepsolanki
-- What`s latest in tech implementation: Apache AirFlow, Apache Kafka, Postgres, Azure DataLakes/Lakehouses, Azure Databricks, Apache Spark
+- What`s latest in tech implementation: Apache AirFlow, Apache Kafka, Postgres, Azure DataLakes, Azure Databricks, Apache Spark
 
 <!---
 manoritesandeep/manoritesandeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

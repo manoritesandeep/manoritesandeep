@@ -6,7 +6,6 @@
 - 📫 How to reach me... DM on LinkedIn: @[LinkedIn](www.linkedin.com/in/sandeepsolanki)
 - What`s latest in tech implementation: Apache AirFlow, Apache Kafka, Postgres, Azure DataLakes, Azure Databricks, Apache Spark, Spark APIs...
 - Efficiency is vital for performance...
-
 <!---
 manoritesandeep/manoritesandeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
